@@ -14,6 +14,7 @@ config.font_size = 12
 config.color_scheme = "PencilDark"
 config.window_background_opacity = 0.9
 config.tab_bar_at_bottom = true
+config.window_decorations = "RESIZE"
 config.colors = {
 	selection_fg = "none",
 	selection_bg = "rgba(50% 50% 50% 50%)",
