@@ -10,7 +10,7 @@ config.font = wezterm.font_with_fallback({
 	"Fira Code",
 	"Monospace",
 })
-config.font_size = 12
+config.font_size = 12.5
 config.color_scheme = "PencilDark"
 config.window_background_opacity = 0.9
 config.tab_bar_at_bottom = true
